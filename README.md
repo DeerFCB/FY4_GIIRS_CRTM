@@ -1,0 +1,2 @@
+# FY4_GIIRS_CRTM
+通过CRTM模拟FY4GIIRS的MW波段的radiance， 并于观测数据进行比较
